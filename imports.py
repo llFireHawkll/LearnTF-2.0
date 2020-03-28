@@ -13,6 +13,7 @@ import time
 import glob
 import imageio
 import logging
+import IPython
 import numpy as np
 import pandas as pd
 import tensorflow as tf
